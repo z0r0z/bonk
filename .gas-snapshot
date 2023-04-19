@@ -1,1 +1,2 @@
-BonklerPoolTest:testPool() (gas: 142)
+BonklerPoolTest:testBidBonkler() (gas: 593261)
+BonklerPoolTest:testPoolBonkler() (gas: 297567)
